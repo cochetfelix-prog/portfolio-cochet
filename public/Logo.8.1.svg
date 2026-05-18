@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Calque_1"
+   version="1.1"
+   viewBox="0 0 160 160"
+   sodipodi:docname="Logo.8.1.svg"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview2"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="5.04375"
+     inkscape:cx="80"
+     inkscape:cy="91.301115"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Calque_1" />
+  <!-- Generator: Adobe Illustrator 30.3.0, SVG Export Plug-In . SVG Version: 2.1.3 Build 182)  -->
+  <defs
+     id="defs1">
+    <style
+       id="style1">
+      .st0 {
+        fill: #b3b3b3;
+      }
+
+      .st1 {
+        fill: #a30000;
+      }
+    </style>
+  </defs>
+  <g
+     id="g2">
+    <path
+       class="st1"
+       d="M95.18,114.29c0,5.17-3.52,7.75-10.55,7.75h-36.01c-6.84,0-10.26-2.58-10.26-7.75V45.03c0-5.2,3.42-7.8,10.26-7.8h36.01c7.04,0,10.55,2.6,10.55,7.8v19.84h-17.19v-16.75h-22.36v63.03h22.36v-17.83h17.19v20.97Z"
+       id="path1" />
+    <path
+       class="st0"
+       d="M121.08,117.03c0,3.34-1.39,5.01-4.16,5.01h-14.89c-2.72,0-4.07-1.67-4.07-5.01v-44.74c0-3.36,1.36-5.04,4.07-5.04h14.89c2.77,0,4.16,1.68,4.16,5.04v44.74ZM114.22,115v-40.71h-9.41v40.71h9.41Z"
+       id="path2" />
+  </g>
+  <text
+     id="text2" />
+</svg>

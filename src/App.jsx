@@ -91,7 +91,7 @@ export default function CochetConstructionPortfolio() {
         <div className="relative z-10 max-w-5xl px-6 text-center">
           <div className="flex justify-center mb-8">
             <img
-              src="Logo.6.svg"
+              src="Logo.6.1.svg"
               alt="Logo Cochet Construction"
               className="w-70 md:w-40"
             />
@@ -143,19 +143,19 @@ export default function CochetConstructionPortfolio() {
             </p>
           </div>
 
-          <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
+          <div className="grid grid-cols-3 gap-3 md:gap-6">
             {services.map((service, index) => (
               <div
                 key={index}
                 className="bg-white/5 border border-white/10 rounded-3xl p-8 hover:border-[#a30000]/50 transition group"
               >
-                <div className="w-14 h-14 rounded-2xl bg-[#a30000]/20 flex items-center justify-center mb-6 group-hover:scale-110 transition">
-                  <div className="w-5 h-5 bg-[#a30000] rounded-full" />
+                <div className="w-8 h-8 md:w-14 md:h-14 rounded-xl md:rounded-2xl bg-[#a30000]/20 flex items-center justify-center mb-6 group-hover:scale-110 transition">
+                  <div className="w-3 h-3 md:w-5 md:h-5 bg-[#a30000] rounded-full" />
                 </div>
 
-                <h4 className="text-2xl font-bold mb-3">{service}</h4>
+                <h4 className="text-[10px] md:text-2xl font-bold mb-1 md:mb-3">{service}</h4>
 
-                <p className="text-gray-400 leading-relaxed">
+                <p className="hidden md:block text-gray-400 leading-relaxed">
                   Travail soigné, durable et adapté aux besoins de chaque
                   projet résidentiel.
                 </p>
@@ -178,13 +178,14 @@ export default function CochetConstructionPortfolio() {
             </h3>
           </div>
 
-          <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
+          <div className="grid grid-cols-3 gap-3 md:gap-6">
             {projects.map((project, index) => (
               <div
                 key={index}
                 className="group overflow-hidden rounded-3xl bg-white/5 border border-white/10"
               >
-                <div className="overflow-hidden h-[420px] md:h-[250px]">
+                <div className="overflow-hidden h-[95 nb
+                px] md:h-[250px]">
                   <img
                     src={project.image}
                     alt={project.title}
