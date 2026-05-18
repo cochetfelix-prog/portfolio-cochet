@@ -76,6 +76,7 @@ export default function CochetConstructionPortfolio() {
             <a href="#about" className="hover:text-white transition">
               À propos
             </a>
+
             <a href="#contact" className="hover:text-white transition">
               Contact
             </a>
@@ -96,7 +97,7 @@ export default function CochetConstructionPortfolio() {
         <div className="relative z-10 max-w-5xl px-6 text-center">
           <div className="flex justify-center mb-8">
             <img
-              src="/logo_chat.png"
+              src="/logo.8.3.svg"
               alt="Logo Cochet Construction"
               className="w-160 w md-40"
             />
