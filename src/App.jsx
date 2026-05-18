@@ -49,13 +49,9 @@ export default function CochetConstructionPortfolio() {
             <img
             src="/Logo.8.1.svg"
             alt="Cochet Construction"
-            className="h-20 w-auto hidden md:block"
+            className="h-20 w-auto"
             /> 
-            <img
-              src="/Avant (1).png"
-              alt="Cochet Construction"
-              className="h-20 w-auto block md:hidden"
-            />
+          
             <div>
               <h1 className="text-xl font-bold tracking-wide">
                 Cochet Construction
