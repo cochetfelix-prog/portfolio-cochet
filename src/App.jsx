@@ -47,9 +47,14 @@ export default function CochetConstructionPortfolio() {
         <div className="max-w-7xl mx-auto px-6 py-4 flex items-center justify-between">
           <div className="flex items-center gap-4">
             <img
-              src="Logo.8.svg"
+            src="/Logo.8.1.svg"
+            alt="Cochet Construction"
+            className="h-20 w-auto hidden md:block"
+            /> 
+            <img
+              src="/Logo.8.1.png"
               alt="Cochet Construction"
-              className="h-20 w-auto"
+              className="h-20 w-auto block md:hidden"
             />
             <div>
               <h1 className="text-xl font-bold tracking-wide">
@@ -90,10 +95,16 @@ export default function CochetConstructionPortfolio() {
 
         <div className="relative z-10 max-w-5xl px-6 text-center">
           <div className="flex justify-center mb-8">
+          
             <img
-              src="Logo.6.1.svg"
+              src="/Logo.6.1.png"
+              alt="Cochet Construction"
+              className="w-72 block md:hidden"
+            />
+            <img
+              src="/Logo.6.1.svg"
               alt="Logo Cochet Construction"
-              className="w-70 md:w-40"
+              className="w-40 hidden md:block"
             />
           </div>
 
