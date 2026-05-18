@@ -52,7 +52,7 @@ export default function CochetConstructionPortfolio() {
             className="h-20 w-auto hidden md:block"
             /> 
             <img
-              src="/Logo.8.1.png"
+              src="/Logo.8.1.svg"
               alt="Cochet Construction"
               className="h-20 w-auto block md:hidden"
             />
@@ -97,7 +97,7 @@ export default function CochetConstructionPortfolio() {
           <div className="flex justify-center mb-8">
           
             <img
-              src="/Logo.6.1.png"
+              src="/Logo.6.1.svg"
               alt="Cochet Construction"
               className="w-72 block md:hidden"
             />
