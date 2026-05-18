@@ -102,7 +102,7 @@ export default function CochetConstructionPortfolio() {
               className="w-72 block md:hidden"
             />
             <img
-              src="/Logo.6.1.svg"
+              src="/Logo.6.1.png"
               alt="Logo Cochet Construction"
               className="w-40 hidden md:block"
             />
